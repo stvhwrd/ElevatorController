@@ -1,6 +1,6 @@
 @ CSC230 --  Elevator simulation program
 
-@ Author:  Micaela Serra 
+@ Template Author:  Dr. Micaela Serra 
 @ Modified by: Stevie Howard 
 
 @===== STAGE 0
