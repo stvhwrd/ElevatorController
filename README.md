@@ -5,7 +5,7 @@
 
 A simple program to simulate an elevator controller, written in ARM Assembly Language and run on an EMBEST board.  The program responds to physical button pushes representative of the buttons in a four storey building.
 
-###Constraints:
+## Design Constraints:
 
 * On each level of the building there are two buttons to call the elevator - up and down.
 * The elevator itself has four buttons - one for each level.
